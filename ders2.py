@@ -189,7 +189,7 @@ else:
 
 #%%
 
-#integral alma
+#integral alma  f(x) = x^2 fonkisyonun integrali - 0-2 aralığında
 
 a = 2
 b = 0
