@@ -86,6 +86,7 @@ sonuc = parametresiz()
     
 
 #%%
+#kullanicidan bir işlem seçmesini istiyip, 4 islemi yapan fonksiyonlar.
 
 def topla(x,y):
     print("sonuc",x+y)
@@ -144,8 +145,8 @@ def carpma(x):
 
 sonuc = carpma(dizi)
 
-#%%
-#recursive
+#%% 
+#recursive functions (kendi kendini tekrar eden fonksiyonlar)
 def faktoriyel(x):
 
     if x == 1:
@@ -196,7 +197,7 @@ isci2.zam_yap()
 #rint(isci1.alisimsoyisim())
 #print(isci1.zam_yap())
 
-
+#maximum maasi bulmak icin kullanılan fonksiyon
 max_maas = 0
 
 calisan_dizi = [isci1,isci2,isci3,isci4]
@@ -243,7 +244,6 @@ print("adasd")
 
 #%%  
 
-x = 3232323
 
 
 
